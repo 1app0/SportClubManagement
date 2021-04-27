@@ -20,3 +20,5 @@ Should have:
 
 Could have:
 1. Chat rooms for users
+
+new application https://github.com/1app0/GithubSearchAndroid
